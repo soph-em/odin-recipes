@@ -1,0 +1,1 @@
+This is my first Project in The Odin Projects Foundation Pathway - the assignment is to create an HTML page displaying three pages with recipes and images with an index page that links to them.
